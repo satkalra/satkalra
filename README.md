@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @satkalra
 - 👀 I’m interested in Software Development and building better data democratization tools
-- 🌱 I’m currently learning Javascript and Python
-- 💞️ I’m looking to collaborate on tool building
+- 🌱 I’m work well with Javascript and Python
+- 💞️ I have experience in agile environments switching fast from bulding LLM applications to bitcoin application developments
 - 📫 How to reach me skalra@gwu.edu
 
 <!---
